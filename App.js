@@ -365,3 +365,11 @@ const styles = StyleSheet.create({
     marginTop: 8,
   },
 });
+<like button>
+<double claim Reward button>
+<claim reward>
+<home button down lift>
+<video in the middlefeeds>
+<profile down right> 
+<notification pop ups>
+<random ads> 
